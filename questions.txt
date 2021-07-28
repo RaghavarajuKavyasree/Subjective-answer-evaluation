@@ -1,0 +1,5 @@
+What is a compiler?
+Explain briefly about the parts of a compilation.
+What is a symbol table?
+List the various phases of compiler.
+List the properties of LR parser.
